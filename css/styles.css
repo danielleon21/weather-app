@@ -12,6 +12,10 @@ html {
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+body {
+  height: 100vh;
+}
+
 .p-footer {
   display: flex;
   align-items: center;
